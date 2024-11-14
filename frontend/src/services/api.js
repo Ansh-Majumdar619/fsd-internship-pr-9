@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Adjusted API URL to include the '/api' prefix (since your backend uses '/api/todos')
-const API_URL = 'http://localhost:3000/api/todos';
+const API_URL = "https://todo-app-1o6y.onrender.com"
 
 export const getTodos = async () => {
     try {
