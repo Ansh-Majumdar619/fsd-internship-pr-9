@@ -1,5 +1,13 @@
+@font-face {
+  font-family: orbitron;
+  src: url('Orbitron-VariableFont_wght.ttf');
+}
+
+
+
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+/*   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: orbitron;
   line-height: 1.5;
   font-weight: 400;
 
